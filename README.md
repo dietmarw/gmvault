@@ -5,7 +5,7 @@
 Gmvault is a tool for backing up your gmail account and never lose email correspondence.
 Gmvault is open source and under GNU-AGPL-3.0.
 
-For further info go [gmvault.org] (http://gmvault.org)
+For further info go [gmvault.org](http://gmvault.org)
 
 # Contribute
 
